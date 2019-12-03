@@ -1,0 +1,28 @@
+/*Inicio Media*/
+@media (max-width: 700px) {
+    .headermovil {
+      padding-top: 20px;
+      display: flex;
+      justify-content: space-between;
+      text-align: center; 
+  
+    }
+  
+    .header {
+      display: none;
+    }
+  
+    .footer {
+      justify-content: center;
+      text-align: center;
+      padding: 0px;
+    }
+    .mostrar {
+      display: flex;
+
+
+    }
+    
+  }
+  /*Fin Media*/
+   

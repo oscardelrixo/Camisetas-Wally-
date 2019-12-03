@@ -1,0 +1,22 @@
+ /*Inicio Header*/
+.esquina {
+    padding-top: 10px;
+  }
+.centro {
+    text-align: center;
+  
+  }
+.enlaces {
+    text-align: center;
+    padding-top: 0px; 
+  }
+.carrito {
+    position: absolute; 
+    right: 100px; 
+    top: 0; 
+  }
+.desplegable {
+    display: none; 
+  }
+
+/*Fin Header*/

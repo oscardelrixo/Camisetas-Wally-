@@ -1,0 +1,27 @@
+/*Inicio body*/
+.general {
+    background-color: rgb(201, 201, 201);
+  
+  }
+.bloque1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+.bloque2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+.bloque3 { 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+.bloque4 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+/*Final body*/

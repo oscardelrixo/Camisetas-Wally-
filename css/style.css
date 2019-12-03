@@ -1,0 +1,72 @@
+
+/* Base */
+
+* {
+  box-sizing: border-box;
+}
+
+/* Typography */
+
+body {
+  background-color: rgb(201, 201, 201);
+  padding: 0px;
+  border: 0px;
+  margin: 0px;
+  font-family: sans-serif;
+  
+}
+.headermovil {
+  display: none;
+  width: 100%;
+  flex-wrap: wrap;
+
+
+}
+.headermovil > .menuFijo {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  
+}
+.headermovil > .enlacesFijos {
+  width: 100%; 
+  display: flex; 
+  justify-content: center;
+  padding: 20px;
+}
+
+
+.desplegable {
+  width: 100%;
+  display: flex; 
+  flex-wrap: wrap; 
+}
+.desplegable :hover {
+  background-color: red; 
+}
+.desplegable > a {
+  width: 100%;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  border-top: solid 2px white;
+  font-size: 14px;
+}
+/* Clases Vinculadas al Menu Responsive JS*/
+.mostrar, .nomostrar {
+  display: none; 
+
+}
+
+a {
+  text-decoration: solid;
+  color: grey;
+  font-size: 12px;
+  padding: 0px 10px;
+}
+
+/* Fin Typography */
+
+
+
+

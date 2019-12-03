@@ -1,0 +1,25 @@
+/*Inicio Texto Imagenes*/
+.img1 > div {
+    position: relative;
+    bottom: 100px;
+    left: 50px;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: baseline;
+  }
+.precio {
+    background-color: black; 
+    color: white;
+    padding: 8px 10px;
+    margin: 0px;
+    height: 30px;
+    border-radius: 5px 5px 5px 5px;
+    
+  }
+.nombre {
+    background-color: rgba(33,33,33,0.5);
+    margin: 0px;
+    color: white; 
+    padding: 6px 12px;
+  }
+  /*Fin Texto Imagenes*/
